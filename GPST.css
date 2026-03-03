@@ -3,7 +3,7 @@ body {
     justify-content: center;
     color: #666666;
     background-image: url(assets/sky.png);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: 100% 100%;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -78,7 +78,6 @@ dt {
     min-width: 900px;
     max-width: 2050px;
     box-shadow: 4px 4px #133926;
-    height: 98vh;
 }
 main {
     padding-top: 1px;
@@ -101,6 +100,7 @@ footer {
     font-size: 90%;
 
 }
+
 
 
 
