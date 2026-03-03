@@ -73,6 +73,7 @@ dt {
 #wrapper {
     display: flex;
     justify-content: center;
+    flex-direction: column;
     width: 80%;
     background-color: white;
     min-width: 900px;
@@ -100,4 +101,5 @@ footer {
     font-size: 90%;
 
 }
+
 
