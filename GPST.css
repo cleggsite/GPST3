@@ -1,7 +1,5 @@
 body {
     color: #666666;
-    /*display: flex;
-    justify-content: center;*/
     background-image: url(assets/sky.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -73,6 +71,8 @@ dt {
     background-size: 100% 100%;
 }
 #wrapper {
+    display: flex;
+    justify-content: center;
     width: 80%;
     background-color: white;
     min-width: 900px;
@@ -100,3 +100,4 @@ footer {
     font-size: 90%;
 
 }
+
